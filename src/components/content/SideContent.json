@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "How to install android studio",
+        "data": [
+           {
+            "id": 1,
+            "title": "First install any browser"
+           },
+           {
+            "id": 2,
+            "title": "Connect your system to internet then download android studio"
+           },
+           {
+            "id": 3,
+            "title": "How to install android studio"
+           }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Friends this platform is the best for you",
+        "data": []
+    },
+    {
+        "id": 3,
+        "title": "Hii Friends kaise hoo app sab",
+        "data": []
+    },
+    {
+        "id": 4,
+        "title": "This is best channce to you lern somtihng new",
+        "data": []
+    }
+]

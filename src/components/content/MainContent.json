@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "type": "title",
+        "data": "How to install android studio"
+    },
+    {
+        "id": 2,
+        "type": "description",
+        "data": "Go to the official Android Studio website: https://developer.android.com/studio "
+    },
+    {
+        "id": 1,
+        "type": "code_example",
+        "data": "val fruits = listOf(\"Apple\", \"Banana\", \"Cherry\")\nval result = buildString {\n    for ((index, fruit) in fruits.withIndex()) {\n        append(\"Fruit at index \\$index is \\$fruit\\n\")\n    }\n}\nprintln(result)"
+    },
+    {
+        "id": 1,
+        "type": "image",
+        "data": [
+            "https://marketplace.canva.com/EAF4agn_tz8/2/0/1131w/canva-blue-and-white-simple-travel-poster-55TaRvNj-1o.jpg"
+        ]
+    }
+]

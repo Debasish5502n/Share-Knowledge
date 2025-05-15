@@ -1,0 +1,41 @@
+.sc_contener {
+  width: 100%;
+  display: flex;
+}
+
+.sidebar {
+  width: 20.7%;
+  background-color: rgb(246, 246, 246);
+  height: 100vh;
+}
+
+.sidebar_content {
+  margin-left: 10px;
+  margin-top: 10px;
+  cursor: 'pointer';
+}
+
+.sidebar_item {
+  margin-left: 20px;
+}
+
+.sidebar_item_text {
+  cursor: pointer;
+  color: purple;
+  font-size: 15px;
+}
+
+.resizer {
+  width: 0.3%;
+  cursor: ew-resize;
+  background-color: #ccc;
+}
+
+.main_contener {
+  width: 60%;
+  background-color: white;
+}
+
+.body {
+  background-color: white;
+}
